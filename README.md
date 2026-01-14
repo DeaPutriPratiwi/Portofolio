@@ -56,12 +56,12 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 
 ### Desain Pakaian
 
-![Desain Pakaian 1](images/IMG_20260114_141227.jpg)
-![Desain Pakaian 2](images/IMG_20260114_141250.jpg)
-![Desain Pakaian 3](images/IMG_20260114_141302.jpg)
-![Desain Pakaian 4](images/IMG_20260114_141312.jpg)
-![Desain Pakaian 5](images/IMG_20260114_141323.jpg)
-
+![Desain Pakaian 1](images/IMG_20260114_143537.jpg)
+![Desain Pakaian 2](images/IMG_20260114_143550.jpg)
+![Desain Pakaian 3](images/IMG_20260114_143615.jpg)
+![Desain Pakaian 4](images/IMG_20260114_143630.jpg)
+![Desain Pakaian 5](images/IMG_20260114_143641.jpg)
+![Desain Pakaian 6](images/IMG_20260114_143651.jpg)
 ---
 
 ## KONTAK
