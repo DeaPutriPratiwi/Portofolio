@@ -39,6 +39,20 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 ![Desain Kemasan 4](images/4_20260111_111105_0003.png)
 ![Desain Kemasan 5](images/5_20260111_111105_0004.png)
 
+### Desain Logo
+
+![Logo 1](images/1768374365866.jpg)
+![Logo 2](images/1768374472657.jpg)
+![Logo 3](images/1768374501155.jpg)
+![Logo 4](images/1768374535335.jpg)
+![Logo 5](images/1768374566640.jpg)
+![Logo 6](images/1768374704784.jpg)
+![Logo 7](images/IMG_20260114_141227.jpg)
+![Logo 8](images/IMG_20260114_141250.jpg)
+![Logo 9](images/IMG_20260114_141302.jpg)
+![Logo 10](images/IMG_20260114_141312.jpg)
+![Logo 11](images/IMG_20260114_141323.jpg)
+
 ---
 
 ## KONTAK
