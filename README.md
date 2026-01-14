@@ -1,4 +1,7 @@
 # PORTOFOLIO DESAIN  
+
+![Portofolio Terbaru](https://raw.githubusercontent.com/DeaPutriPratiwi/Portofolio/main/images/IMG_20260114_145225.jpg)
+
 **Dea Putri Pratiwi**
 
 Desainer grafis profesional yang menyediakan layanan desain untuk kebutuhan
