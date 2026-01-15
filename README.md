@@ -89,8 +89,8 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 Terbuka untuk kerja sama profesional, proyek freelance,
 dan kolaborasi kreatif.
 
-| Media | Informasi |
-|------|-----------|
-| WhatsApp | +62 831-5910-2242 |
-| Instagram | Dea Project |
-| Facebook | Dea Putri Pratiwi |
+| Media | Link |
+|------|------|
+| WhatsApp | https://wa.me/6283159102242 |
+| Instagram | https://www.instagram.com/dea_project1 |
+| Facebook | https://www.facebook.com/profile.php?id=61576321872018 |
