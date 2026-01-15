@@ -30,9 +30,10 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 ## CONTOH KARYA
 
 ### Desain baju
-![Karya 1](images/IMG_20260110_163811.jpg)
 
-![Karya 2](images/IMG_20260110_163842.jpg)
+| Karya 1 | Karya 2 |
+|---|---|
+| <img src="images/IMG_20260110_163811.jpg" width="220"/> | <img src="images/IMG_20260110_163842.jpg" width="220"/> |
 
 ### Desain Kemasan Produk
 
@@ -46,27 +47,28 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 
 ### Desain Logo
 
-![Logo 1](images/1768374365866.jpg)
-![Logo 2](images/1768374472657.jpg)
-![Logo 3](images/1768374501155.jpg)
-![Logo 4](images/1768374535335.jpg)
-![Logo 5](images/1768374566640.jpg)
-![Logo 6](images/1768374704784.jpg)
-![Logo 7](images/IMG_20260114_141227.jpg)
-![Logo 8](images/IMG_20260114_141250.jpg)
-![Logo 9](images/IMG_20260114_141302.jpg)
-![Logo 10](images/IMG_20260114_141312.jpg)
-![Logo 11](images/IMG_20260114_141323.jpg)
+| Logo 1 | Logo 2 | Logo 3 | Logo 4 |
+|---|---|---|---|
+| <img src="images/1768374365866.jpg" width="160"/> | <img src="images/1768374472657.jpg" width="160"/> | <img src="images/1768374501155.jpg" width="160"/> | <img src="images/1768374535335.jpg" width="160"/> |
 
+| Logo 5 | Logo 6 | Logo 7 | Logo 8 |
+|---|---|---|---|
+| <img src="images/1768374566640.jpg" width="160"/> | <img src="images/1768374704784.jpg" width="160"/> | <img src="images/IMG_20260114_141227.jpg" width="160"/> | <img src="images/IMG_20260114_141250.jpg" width="160"/> |
+
+| Logo 9 | Logo 10 | Logo 11 |  |
+|---|---|---|---|
+| <img src="images/IMG_20260114_141302.jpg" width="160"/> | <img src="images/IMG_20260114_141312.jpg" width="160"/> | <img src="images/IMG_20260114_141323.jpg" width="160"/> |  |
 
 ### Desain Pakaian
 
-![Desain Pakaian 1](images/IMG_20260114_143537.jpg)
-![Desain Pakaian 2](images/IMG_20260114_143550.jpg)
-![Desain Pakaian 3](images/IMG_20260114_143615.jpg)
-![Desain Pakaian 4](images/IMG_20260114_143630.jpg)
-![Desain Pakaian 5](images/IMG_20260114_143641.jpg)
-![Desain Pakaian 6](images/IMG_20260114_143651.jpg)
+| Pakaian 1 | Pakaian 2 | Pakaian 3 |
+|---|---|---|
+| <img src="images/IMG_20260114_143537.jpg" width="220"/> | <img src="images/IMG_20260114_143550.jpg" width="220"/> | <img src="images/IMG_20260114_143615.jpg" width="220"/> |
+
+| Pakaian 4 | Pakaian 5 | Pakaian 6 |
+|---|---|---|
+| <img src="images/IMG_20260114_143630.jpg" width="220"/> | <img src="images/IMG_20260114_143641.jpg" width="220"/> | <img src="images/IMG_20260114_143651.jpg" width="220"/> |
+
 ---
 
 ## KONTAK
