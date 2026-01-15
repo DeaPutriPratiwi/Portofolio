@@ -36,11 +36,16 @@ Lightroom, Photoshop, Snapseed, Canva, CapCut, dan tools desain lainnya.
 
 ### Desain Kemasan Produk
 
-![Desain Kemasan 1](images/1_20260111_111104_0000.png)
-![Desain Kemasan 2](images/2_20260111_111104_0001.png)
-![Desain Kemasan 3](images/3_20260111_111104_0002.png)
-![Desain Kemasan 4](images/4_20260111_111105_0003.png)
-![Desain Kemasan 5](images/5_20260111_111105_0004.png)
+<p align="center">
+  <img src="images/1_20260111_111104_0000.png" width="220"/>
+  <img src="images/2_20260111_111104_0001.png" width="220"/>
+  <img src="images/3_20260111_111104_0002.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="images/4_20260111_111105_0003.png" width="220"/>
+  <img src="images/5_20260111_111105_0004.png" width="220"/>
+</p>
 
 ### Desain Logo
 
