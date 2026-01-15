@@ -1,6 +1,12 @@
-# PORTOFOLIO DESAIN  
+# PORTOFOLIO 
 
-![Portofolio Terbaru](https://raw.githubusercontent.com/DeaPutriPratiwi/Portofolio/main/images/IMG_20260114_145225.jpg)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/DeaPutriPratiwi/Portofolio/main/images/IMG_20260114_145225.jpg"
+    width="300"
+    style="border: 2px solid #ddd; border-radius: 12px; padding: 6px;"
+  />
+</p>
 
 **Dea Putri Pratiwi**
 
