@@ -16,6 +16,13 @@ kualitas, ketelitian, dan kepuasan klien.
 
 ---
 
+## Pendidikan
+
+**Universitas Indonesia (UI)**  
+_Desain Grafis — Visual Branding & Komunikasi Visual, dan lain²_
+
+---
+
 ## LAYANAN
 - Desain & edit foto
 - Editing video
